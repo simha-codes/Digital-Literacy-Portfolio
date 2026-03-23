@@ -1,13 +1,47 @@
-# Cybercrime Case Study: The UPI "Collect Request" Scam
+# UPI Collect Request Fraud Case Study
 
-**What the Crime Is:** The UPI "Collect Request" fraud is one of the most common scams happening right now. Scammers exploit a feature meant for requesting money to trick people into giving theirs away. It has gotten so bad that the NPCI recently decided to phase out this feature entirely to stop the frauds.
+**UPI Collect Request Fraud**  is a common fraud in India. Scammers trick people into sending money by making them think they are receiving it.
 
-**How It Happens (Step-by-Step):**
-1. **The Setup:** You list an item for sale online, like an old laptop or some textbooks.
-2. **The Hook:** A scammer contacts you, acting like a normal, eager buyer. They agree to your price right away.
-3. **The Trick:** When it's time to pay, instead of transferring the money to you, they send a "Collect Request" notification to your UPI app. They will usually get you on a phone call and act super rushed, telling you that you need to enter your UPI PIN to *receive* the funds.
-4. **The Theft:** Because a UPI PIN is only ever used to *deduct* money, the second you type it in, your money is instantly sent directly to the scammer.
+### How it typically happens :
 
-**Who is Targeted:** College students are huge targets for this because we constantly use second-hand marketplaces and do everything in a rush on our phones. 
+1. Scammer contacts you via phone, WhatsApp, SMS, or email.  
+   They pretend to be:  
+   - A buyer for your online sale (OLX, Facebook, etc.)  
+   - A friend or family member  
+   - Bank or customer support staff  
+   - Someone giving a refund or prize
 
-**Consequences:** Since UPI transfers are instant, the money is almost impossible to get back. Aside from losing your cash, it causes a lot of stress, embarrassment, and makes victims afraid to trust digital banking.
+2. They say: “I am sending you money now” or “Check your app for the payment.”
+
+3. Instead of sending money, they send a **UPI collect request** (a payment request notification).
+
+4. You get a notification in your UPI app (Google Pay, PhonePe, Paytm, etc.) asking you to **Approve** the request.
+
+5. In confusion or hurry, you tap **Approve** and enter your **UPI PIN** thinking you are accepting money.
+
+6. Actually, entering the PIN sends **your money** to the scammer instantly.
+
+### Who is usually targeted:
+
+- People selling items online (OLX, Facebook Marketplace, etc.)  
+- Shoppers waiting for refunds  
+- Elderly users or beginners with UPI  
+- Anyone in a hurry or not familiar with how collect requests work
+
+### What the consequences are:
+
+- Immediate loss of money (₹500 to lakhs of rupees)  
+- Transfers are instant and very hard to reverse  
+- Victims feel stressed, angry, and cheated  
+- Filing police complaint and bank claim takes time and effort  
+- Banks may refund only if you report quickly and prove no fault  
+- Huge national losses (hundreds of crores every year)  
+- Because of this, NPCI is removing or restricting collect requests and promoting safer “push” payments (like scanning QR codes)
+
+### How to stay safe:
+
+- Never approve unknown collect requests  
+- Never enter UPI PIN to “receive” money  
+- Always start the payment yourself (push payment)  
+- Verify sender identity before any transaction
+
