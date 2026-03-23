@@ -32,4 +32,4 @@ Here is a breakdown of everything included in this repo:
 * **Why I made it:** To break down exactly how scammers are tricking students on second-hand marketplaces and list a few simple rules (like never entering your PIN to receive money) to avoid getting hacked.
 
 ---
-*Created by Vishwa - 2026*
+*Created by Vishwasimha - 2026*
