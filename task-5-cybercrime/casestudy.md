@@ -44,4 +44,5 @@
 - Never enter UPI PIN to “receive” money  
 - Always start the payment yourself (push payment)  
 - Verify sender identity before any transaction
-
+  
+### Source link : https://www.business-standard.com/finance/news/upi-collect-call-transactions-phase-out-npci-fraud-125031800575_1.html
