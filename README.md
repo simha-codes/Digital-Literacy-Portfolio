@@ -4,7 +4,7 @@ My name is Vishwasimha, and I'm a first-year B.Tech student CSE(AI/ML) at VIT Bh
 
 This repository is my final submission for the CSE0001 Digital Literacy course. I built this portfolio to document what I've learned about online safety, professional communication, and setting up my digital footprint as an engineering student.
 
-Here is a breakdown of everything included in this repo:
+Here is a breakdown of everything included in this repo:-
 
 ---
 
